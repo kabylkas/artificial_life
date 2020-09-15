@@ -1,3 +1,0 @@
-/soe/nkabylka/artificial_life/test/CMakeFiles/rebuild_cache.dir
-/soe/nkabylka/artificial_life/test/CMakeFiles/edit_cache.dir
-/soe/nkabylka/artificial_life/test/CMakeFiles/test_alife.dir
