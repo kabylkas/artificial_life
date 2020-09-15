@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++1z -g -O3  -rdynamic CMakeFiles/test_alife.dir/test_alife.cpp.o CMakeFiles/test_alife.dir/soe/nkabylka/artificial_life/src/World.cpp.o  -o test_alife 
